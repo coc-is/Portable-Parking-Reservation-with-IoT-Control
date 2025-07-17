@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/login.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/input.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/data.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
